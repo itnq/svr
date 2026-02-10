@@ -1,6 +1,6 @@
 {
   "hidden_sections": [],
-  "available_languages": ["ar", "fr", "en", "de", "es", "in", "ru", "sq"],
+  "available_languages": ["ar", "en", "de", "es", "in", "ru", "sq"],
   "audio_enabled": true,
   "audio_disabled_hadiths": [],
   "tts_packs_available": ["ar", "en", "fr", "de", "es", "in", "ru", "sq"],
